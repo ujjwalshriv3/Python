@@ -1,6 +1,6 @@
-"""
+"""""""""
 https://en.wikipedia.org/wiki/Computus#Gauss'_Easter_algorithm
-"""
+""""""""""
 import math
 from datetime import datetime, timedelta
 
